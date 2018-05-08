@@ -1,7 +1,7 @@
 # DataScience 
 
 ## Python 
-1. [Python Tutoria](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
+1. [Python Tutorial](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
 
 ## Pandas
 1. [Intro to Pandas: Google Colab](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=en)
