@@ -18,3 +18,6 @@
 ## TensorFlow
 1. [Intro to TensorFlow: Google Colab](https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?hl=en)
 
+## Python-Plots
+1. MatPlotLib CheatSheet in Python-Plots Folder
+1. Seaborn CheatSheet in Python-Plots Folder
