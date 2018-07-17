@@ -24,3 +24,7 @@
 ## Python-Plots
 1. MatPlotLib CheatSheet in Python-Plots folder
 1. Seaborn CheatSheet in Python-Plots folder
+
+
+
+* _B01 - D08_ Notebooks compiled from [Nik Bear Brown](https://github.com/nikbearbrown/NEU_COE)*
